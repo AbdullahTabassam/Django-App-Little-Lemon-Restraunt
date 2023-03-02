@@ -5,6 +5,7 @@ Little Lemon Restaurant is a basic Django app that allows users to view the menu
 ## Installation
 
 1. Clone the repository: 
+
     `git clone https://github.com/AbdullahTabassam/Django-App-Little-Lemon-Restraunt.git`
 2. Navigate into the project directory: `cd Django-App-Little-Lemon-Restraunt`
 3. Create a virtual environment: `python -m venv env`
